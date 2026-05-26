@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
-![App Mockup](https://files.catbox.moe/tqg5c1.png)
+![App Mockup](https://files.catbox.moe/91mdxt.png)
 
 A financial web app with candlestick visualizations and quantitative analysis for stock market data.
 
